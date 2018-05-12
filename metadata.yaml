@@ -1,0 +1,31 @@
+_repo: The-Boy-s-Book-of-Heroes_37315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peake, Helena
+    gutenberg_agent_id: '38767'
+    url: http://www.gutenberg.org/2009/agents/38767
+description: ''
+gutenberg_issued: '2011-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile literature'
+- !lcsh 'Courage -- Juvenile literature'
+- !lcsh 'Kings and rulers -- Juvenile literature'
+- !lcsh 'Heroes -- Juvenile literature'
+tableOfContents: Hereward, last of the Saxons -- The Cid -- Louis IX, King of France
+  -- Gustavus Vasa, King of Sweden -- Bertrand du Guesclin -- Christopher Columbus
+  -- The Chevalier de Bayard -- Sir Martin Frobisher -- Sir Walter Raleigh -- Sir
+  Philip Sidney.
+title: The Boy's Book of Heroes
+url: http://www.gutenberg.org/ebooks/37315
